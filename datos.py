@@ -3,6 +3,7 @@ datos.py - Estructuras de datos iniciales para el sistema de gestión
 del Gimnasio ForceTech.
 """
 
+
 # Servicios disponibles en el gimnasio
 servicios_disponibles = ["Yoga", "Pilates", "Entrenamiento Funcional", "Piscina"]
 
