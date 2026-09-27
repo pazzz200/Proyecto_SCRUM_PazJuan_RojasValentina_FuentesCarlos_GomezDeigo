@@ -6,6 +6,7 @@ inscripciones/matrículas y validaciones del sistema Gimnasio ForceTech.
 import datos
 
 
+
 # ---------- VALIDACIONES ----------
 
 def validar_texto_no_vacio(texto):
