@@ -124,6 +124,9 @@ Para identificar las necesidades reales del gimnasio se usaron estas técnicas:
           Development Team
      (Juan David Paz · Diego Gomez)
 ```
+![image alt](./Image/imagen3.png)
+![image alt](./Image/imagen4.png)
+
 
 ### 4.2 Panel de gestión (Kanban)
 
@@ -334,6 +337,9 @@ Reunión inicial donde se definió el Sprint Goal y se seleccionaron las histori
 | Lunes 28 de septiembre | Paz creó `reportes.py` y `main.py`, terminando la parte de código; se pasó a pruebas. |
 | Martes 29 de septiembre | Última reunión. La Scrum Master revisó el código, hizo pruebas y aprobó el producto para producción. |
 
+![image alt](./Image/imagen1.jpeg)
+![image alt](./Image/imagen2.jpeg)
+
 ### 6.3 Sprint Review
 
 Durante el Sprint, el equipo presentó cada día sus avances y el cumplimiento de las tareas del Sprint Backlog. Se creó el repositorio, se definió la estructura del software con el PO y la Scrum Master, se desarrolló el backend (`datos.py`, `gestion.py`) y se completó el código (`reportes.py`, `main.py`). La Scrum Master lo revisó, probó y aprobó para producción.
@@ -371,6 +377,8 @@ Durante el Sprint, el equipo presentó cada día sus avances y el cumplimiento d
 ├── main.py         # Punto de entrada y menú principal
 └── README.md
 ```
+![image alt](./Image/hola.jpeg)
+
 
 ### Cómo ejecutar
 
@@ -482,6 +490,8 @@ main.py
 - Repositorio creado el viernes 25 de septiembre en GitHub.
 - La rama principal contiene el código fuente y este README con la documentación del proyecto.
 - Commits repartidos entre los integrantes del Development Team (Diego Gomez y Juan David Paz), con revisión final de la Scrum Master.
+
+![image alt](./Image/imagen5.png)
 
 ---
 
